@@ -1,0 +1,58 @@
+
+/* Estilos corpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+
+/* Container do Banner */
+.banner-container {
+    /* display: flex; */
+    overflow: hidden;
+    width: 90%;
+    padding: 80px;
+}
+
+.banner-container img {
+    width: 50%;
+    .banner-container img {
+        max-height: 200px;
+    }
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.lepo-lepo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Chico-Coins {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Chico-Moedas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Cazé {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Cazé-Tv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
